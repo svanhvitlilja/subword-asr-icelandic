@@ -2,7 +2,7 @@
 
 This is a subword-based recipe for Icelandic ASR, modified from the gale-arabic subword implementation recipe for Arabic, which implements BPE. You can find the original subword gale-arabic implementation under egs/gale-arabic/s5c.
 
-We use the Málrómur speech data [1] for training the models. Please find instructions on preparing the speech data below. Instead of implementing the subword algorithms from scratch, as is done with BPE in the s5c gale-arabic recipe, we provide pre-processed Icelandic training data (Málrómur transcripts) for three different subword segmentation methods: BPE, Kvistur, and Unigram (SentencePiece). Please refer to the technical report (Subword_modelling_ASR_summer_2020.pdf) for details.
+We use the Málrómur speech data [1] for training the models. Please find instructions on preparing the speech data below. Instead of implementing the subword algorithms from scratch, as is done with BPE in the s5c gale-arabic recipe, we provide pre-processed Icelandic training data (Málrómur transcripts) for three different subword segmentation methods: BPE, Kvistur, and Unigram (SentencePiece). Please refer to the [technical report](https://github.com/svanhviti16/subword-asr-icelandic/blob/master/s5/Subword_modelling_ASR_summer_2020.pdf) for details.
 
 
 ## Kaldi and basic setup
