@@ -2,7 +2,7 @@
 
 This is a subword-based recipe for Icelandic ASR, modified from the gale-arabic subword implementation recipe for Arabic, which implements BPE. You can find the original subword gale-arabic implementation under egs/gale-arabic/s5c.
 
-We use the Málrómur speech data for training the models. Please find instructions on preparing the speech data below. Instead of implementing the subword algorithms from scratch, as is done with BPE in the s5c gale-arabic recipe, we provide pre-processed Icelandic training data (Málrómur transcripts) for three different subword segmentation methods: BPE, Kvistur, and Unigram (SentencePiece). Please refer to the technical report (Subword_modelling_ASR_summer_2020.pdf) for details.
+We use the Málrómur speech data [1] for training the models. Please find instructions on preparing the speech data below. Instead of implementing the subword algorithms from scratch, as is done with BPE in the s5c gale-arabic recipe, we provide pre-processed Icelandic training data (Málrómur transcripts) for three different subword segmentation methods: BPE, Kvistur, and Unigram (SentencePiece). Please refer to the technical report (Subword_modelling_ASR_summer_2020.pdf) for details.
 
 
 ## Kaldi and basic setup
@@ -38,7 +38,7 @@ The `malromur_prep_data.sh` script divides the generated data:
 
 The prepared data is now in `data/all` and after the subset command the prepared files are divided such that 10% of the data in `data/all` is now in `data/test_data` and the rest in `data/training_data`.
 
-Further information on the Málrómur data preparation can be found in the [ice-kaldi recipe readme](https://github.com/cadia-lvl/ice-asr/tree/master/ice-kaldi/s5).
+Further information on the Málrómur data preparation can be found in the [ice-kaldi recipe README file](https://github.com/cadia-lvl/ice-asr/tree/master/ice-kaldi/s5).
 
 ### Subword data
 
@@ -49,12 +49,12 @@ The three subword methods available are BPE (byte-pair encoding), Kvistur, and t
 ## Running the scripts
 The run.sh script takes care of the training process. Three subword segmentation methods can be provided as command line argument with the run.sh script. 
 
-`./run.sh bpe`
-`./run.sh kvistur`
+`./run.sh bpe` or
+`./run.sh kvistur` or
 `./run.sh unigram`
 
-If no argument is given, the BPE algorithm is applied by default. The model training architecture is described in [1].
+If no argument is given, the BPE algorithm is applied by default. The model training architecture is described in [2].
 The last training step of the script (neural network training) might fail for some reasons; we have not used this step in our experiments.
 
-
-[1] "A Complete Kaldi Recipe For Building Arabic Speech Recognition Systems", A. Ali, Y. Zhang, P. Cardinal, N. Dahak, S. Vogel, J. Glass. SLT 2014. 
+[1] "Málrómur: A manually verified corpus of recorded Icelandic speech", S. Steingrímsson, S. Helgadóttir, E. Rögnvaldsson, J. Guðnason. NODALIDA 2017.
+[2] "A Complete Kaldi Recipe For Building Arabic Speech Recognition Systems", A. Ali, Y. Zhang, P. Cardinal, N. Dahak, S. Vogel, J. Glass. SLT 2014. 
