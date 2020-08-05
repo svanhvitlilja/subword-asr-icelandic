@@ -1,10 +1,9 @@
 # Subword recipe for Icelandic
 
-This is a subword-based recipe for Icelandic ASR, modified from the gale-arabic subword implementation recipe for Arabic, which uses BPE. You can find the original subword gale-arabic implementation under egs/gale-arabic/s5c.
+This is a subword-based recipe for Icelandic ASR, modified from the gale-arabic subword implementation recipe for Arabic, which implements BPE. You can find the original subword gale-arabic implementation under egs/gale-arabic/s5c.
 
-Pre-processed training data (transcripts only) for Icelandic is provided for three different subword segmentation methods, for use with these scripts. 
+We use the Málrómur speech data for training the models. Please find instructions on preparing the speech data below. Instead of implementing the subword algorithms from scratch, as is done with BPE in the s5c gale-arabic recipe, we provide pre-processed Icelandic training data (Málrómur transcripts) for three different subword segmentation methods: BPE, Kvistur, and Unigram (SentencePiece). Please refer to the technical report (Subword_modelling_ASR_summer_2020.pdf) for details.
 
-We use the Málrómur speech data for training the models. Only voice examples marked as 'correct' have been selected for training. Please find instructions on preparing the speech data below.
 
 ## Kaldi and basic setup
 
@@ -32,13 +31,14 @@ The run.sh script calls the script `local/malromur_prep_data.sh`, which prepares
 	<wav-filename>	<recording-info>	<recording-info>	<gender>	<age>	<prompt (spoken text)>	<utterance length>	vorbis	16000	1	Vorbis
 
 
-The `malromur_prep_data.sh` scipt divides the generated data:
+The `malromur_prep_data.sh` script divides the generated data:
  
 	local/malromur_prep_data.sh <path-to-audio-files> wav_info.txt data/all
 	utils/subset_data_dir_tr_cv.sh --cv-utt-percent 10 data/{all,training_data,test_data}
 
 The prepared data is now in `data/all` and after the subset command the prepared files are divided such that 10% of the data in `data/all` is now in `data/test_data` and the rest in `data/training_data`.
 
+Further information on the Málrómur data preparation can be found in the [ice-kaldi recipe readme](https://github.com/cadia-lvl/ice-asr/tree/master/ice-kaldi/s5).
 
 ### Subword data
 
@@ -54,5 +54,7 @@ The run.sh script takes care of the training process. Three subword segmentation
 `./run.sh unigram`
 
 If no argument is given, the BPE algorithm is applied by default. The model training architecture is described in [1].
+The last training step of the script (neural network training) might fail for some reasons; we have not used this step in our experiments.
+
 
 [1] "A Complete Kaldi Recipe For Building Arabic Speech Recognition Systems", A. Ali, Y. Zhang, P. Cardinal, N. Dahak, S. Vogel, J. Glass. SLT 2014. 
