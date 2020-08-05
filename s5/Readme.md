@@ -4,7 +4,6 @@ This is a subword-based recipe for Icelandic ASR, modified from the gale-arabic 
 
 We use the Málrómur speech data [1] for training the models. Please find instructions on preparing the speech data below. Instead of implementing the subword algorithms from scratch, as is done with BPE in the s5c gale-arabic recipe, we provide pre-processed Icelandic training data (Málrómur transcripts) for three different subword segmentation methods: BPE, Kvistur, and Unigram (SentencePiece). Please refer to the [technical report](https://github.com/svanhviti16/subword-asr-icelandic/blob/master/s5/Subword_modelling_ASR_summer_2020.pdf) for details.
 
-
 ## Kaldi and basic setup
 
 The system uses the Kaldi speech recognition toolkit. Find download and installing instructions in Kaldi's online documentation:
@@ -42,9 +41,11 @@ Further information on the Málrómur data preparation can be found in the [ice-
 
 ### Subword data
 
-The folder subword_ice holds data preprocessed for training subword ASR models. This is the training/test data from the Málrómur data, and grapheme-as-phoneme based subword lexicons.
+The folder `subword_ice` holds data preprocessed for training subword ASR models. This is the training/test data from the Málrómur data, and grapheme-as-phoneme based subword lexicons.
 
 The three subword methods available are BPE (byte-pair encoding), Kvistur, and the Unigram subword segmentation algorithm available in the SentencePiece library.
+
+Some preprocessing scripts used to prepare the subword data are also available in this folder, under `utils`.
 
 ## Running the scripts
 The run.sh script takes care of the training process. Three subword segmentation methods can be provided as command line argument with the run.sh script. 
