@@ -1,0 +1,1097 @@
+.@@ . 
+; ; 
+0 0 
+0@@ 0 
+1 1 
+1@@ 1 
+2 2 
+3 3 
+3@@ 3 
+4 4 
+6 6 
+7 7 
+9@@ 9 
+a a 
+a@@ a 
+að a ð 
+að@@ a ð 
+aðeins a ð e i n s 
+aði a ð i 
+aðir a ð i r 
+aðist a ð i s t 
+aður a ð u r 
+aðurinn a ð u r i n n 
+af a f 
+af@@ a f 
+afn@@ a f n 
+aftur a f t u r 
+ag@@ a g 
+agn@@ a g n 
+a.is a . i s 
+ak@@ a k 
+aka a k a 
+akr@@ a k r 
+akur@@ a k u r 
+akureyr@@ a k u r e y r 
+al@@ a l 
+ald@@ a l d 
+aldrei a l d r e i 
+aleg@@ a l e g 
+all@@ a l l 
+allt a l l t 
+am@@ a m 
+amenn a m e n n 
+an a n 
+an@@ a n 
+ana a n a 
+and a n d 
+and@@ a n d 
+anda a n d a 
+andi a n d i 
+ane@@ a n e 
+anes@@ a n e s 
+ang@@ a n g 
+anir a n i r 
+an.is a n . i s 
+ann a n n 
+ann@@ a n n 
+anna a n n a 
+annað a n n a ð 
+ans a n s 
+anum a n u m 
+ar a r 
+ar@@ a r 
+arf a r f 
+ari a r i 
+ar.is a r . i s 
+arí@@ a r í 
+arnir a r n i r 
+as@@ a s 
+ast a s t 
+at@@ a t 
+au a u 
+au@@ a u 
+auð@@ a u ð 
+aug@@ a u g 
+auk@@ a u k 
+austur@@ a u s t u r 
+ax@@ a x 
+á á 
+á@@ á 
+Á Á 
+Á@@ Á 
+áfram á f r a m 
+áh@@ á h 
+ál@@ á l 
+álf@@ á l f 
+án á n 
+ár@@ á r 
+Ár@@ Á r 
+Ás@@ Á s 
+ási á s i 
+átt á t t 
+b b 
+b@@ b 
+ba@@ b a 
+bakka b a k k a 
+ban@@ b a n 
+band@@ b a n d 
+bandarí@@ b a n d a r í 
+bank@@ b a n k 
+bar@@ b a r 
+bara b a r a 
+bá@@ b á 
+be@@ b e 
+bein@@ b e i n 
+ber@@ b e r 
+berg@@ b e r g 
+bergi b e r g i 
+bi@@ b i 
+bil@@ b i l 
+bir@@ b i r 
+b.is b . i s 
+bí@@ b í 
+bíl@@ b í l 
+bjar@@ b j a r 
+björ@@ b j ö r 
+bl@@ b l 
+blá@@ b l á 
+blog@@ b l o g 
+bo@@ b o 
+boð@@ b o ð 
+bol@@ b o l 
+bor@@ b o r 
+borg b o r g 
+borgar@@ b o r g a r 
+bó@@ b ó 
+ból@@ b ó l 
+br@@ b r 
+bra@@ b r a 
+braut b r a u t 
+bre@@ b r e 
+brekk@@ b r e k k 
+brekku b r e k k u 
+brey@@ b r e y 
+breyt@@ b r e y t 
+bré@@ b r é 
+bro@@ b r o 
+brot b r o t 
+brú@@ b r ú 
+bú@@ b ú 
+bygg@@ b y g g 
+byr@@ b y r 
+bæ b æ 
+bæ@@ b æ 
+bör@@ b ö r 
+c c 
+c@@ c 
+co@@ c o 
+.com . c o m 
+d d 
+d@@ d 
+da d a 
+da@@ d a 
+dag d a g 
+dag@@ d a g 
+dal d a l 
+dal@@ d a l 
+dar@@ d a r 
+dá@@ d á 
+dd@@ d d 
+dei@@ d e i 
+deil@@ d e i l 
+di d i 
+di@@ d i 
+dir d i r 
+d.is d . i s 
+dí@@ d í 
+dó@@ d ó 
+dóm@@ d ó m 
+dr@@ d r 
+dreg@@ d r e g 
+du d u 
+dum d u m 
+dur d u r 
+dæm@@ d æ m 
+dög@@ d ö g 
+ð ð 
+ð@@ ð 
+Ð Ð 
+ða ð a 
+ða@@ ð a 
+ðan ð a n 
+ðar ð a r 
+ðar@@ ð a r 
+ði ð i 
+ði@@ ð i 
+ðir ð i r 
+ðist ð i s t 
+ðu ð u 
+ðum ð u m 
+ður ð u r 
+e e 
+e@@ e 
+eða e ð a 
+ef@@ e f 
+efn@@ e f n 
+eftir e f t i r 
+eftir@@ e f t i r 
+eg e g 
+eg@@ e g 
+egar e g a r 
+egi e g i 
+ei@@ e i 
+eið@@ e i ð 
+eig@@ e i g 
+eik@@ e i k 
+ein e i n 
+ein@@ e i n 
+einn e i n n 
+einn@@ e i n n 
+eins e i n s 
+eitt e i t t 
+ek@@ e k 
+ekk e k k 
+ekk@@ e k k 
+ekkert e k k e r t 
+ekki e k k i 
+el@@ e l 
+eld@@ e l d 
+eldur e l d u r 
+emm@@ e m m 
+en e n 
+en@@ e n 
+end@@ e n d 
+endur e n d u r 
+endur@@ e n d u r 
+eng@@ e n g 
+enginn e n g i n n 
+enn e n n 
+enn@@ e n n 
+epp@@ e p p 
+er e r 
+er@@ e r 
+erf@@ e r f 
+ert e r t 
+eru e r u 
+ess@@ e s s 
+est@@ e s t 
+etta e t t a 
+ey@@ e y 
+eyj@@ e y j 
+eyr@@ e y r 
+é é 
+é@@ é 
+É É 
+ég é g 
+Ég É g 
+él@@ é l 
+ér é r 
+étt@@ é t t 
+f f 
+f@@ f 
+fa f a 
+fa@@ f a 
+fal@@ f a l 
+fall@@ f a l l 
+fang@@ f a n g 
+fangel@@ f a n g e l 
+far@@ f a r 
+fá f á 
+fá@@ f á 
+fe@@ f e 
+fel@@ f e l 
+fell@@ f e l l 
+felli f e l l i 
+feng@@ f e n g 
+fer f e r 
+fer@@ f e r 
+ferð f e r ð 
+ferð@@ f e r ð 
+fé@@ f é 
+fékk f é k k 
+félag@@ f é l a g 
+fi f i 
+fi@@ f i 
+fimm f i m m 
+fimm@@ f i m m 
+finn@@ f i n n 
+fj@@ f j 
+fjár@@ f j á r 
+fjór@@ f j ó r 
+fjöl@@ f j ö l 
+fl@@ f l 
+flei@@ f l e i 
+fleiri f l e i r i 
+flu@@ f l u 
+flug@@ f l u g 
+for@@ f o r 
+fó@@ f ó 
+fól@@ f ó l 
+fór f ó r 
+fór@@ f ó r 
+fr@@ f r 
+fra@@ f r a 
+fram f r a m 
+fram@@ f r a m 
+frá f r á 
+fre@@ f r e 
+frí@@ f r í 
+fræ@@ f r æ 
+fræn@@ f r æ n 
+ful@@ f u l 
+full@@ f u l l 
+fund@@ f u n d 
+fur f u r 
+fur@@ f u r 
+fyl@@ f y l 
+fyr@@ f y r 
+fyrir f y r i r 
+fyrir@@ f y r i r 
+fæ@@ f æ 
+fær@@ f æ r 
+fö@@ f ö 
+g g 
+g@@ g 
+ga g a 
+ga@@ g a 
+gagn@@ g a g n 
+gang@@ g a n g 
+gar g a r 
+gar@@ g a r 
+garði g a r ð i 
+ge@@ g e 
+geg@@ g e g 
+gegn g e g n 
+gei@@ g e i 
+geng@@ g e n g 
+ger@@ g e r 
+gerði g e r ð i 
+gg@@ g g 
+gi g i 
+gil@@ g i l 
+gir g i r 
+gj@@ g j 
+gja g j a 
+gl@@ g l 
+go@@ g o 
+gó@@ g ó 
+gr@@ g r 
+gra@@ g r a 
+greg@@ g r e g 
+grí@@ g r í 
+græ@@ g r æ 
+gt g t 
+guð@@ g u ð 
+gum g u m 
+gú@@ g ú 
+gæ@@ g æ 
+götu g ö t u 
+h h 
+h@@ h 
+haf@@ h a f 
+hafa h a f a 
+hafði h a f ð i 
+hafi h a f i 
+hag@@ h a g 
+hald@@ h a l d 
+hall@@ h a l l 
+ham@@ h a m 
+hand@@ h a n d 
+hann h a n n 
+hans h a n s 
+har@@ h a r 
+há@@ h á 
+hál@@ h á l 
+he@@ h e 
+hef@@ h e f 
+hefur h e f u r 
+hei@@ h e i 
+heil@@ h e i l 
+heim@@ h e i m 
+heimil@@ h e i m i l 
+hel@@ h e l 
+hen@@ h e n 
+her@@ h e r 
+heyr@@ h e y r 
+hé@@ h é 
+hér h é r 
+hil@@ h i l 
+hj@@ h j 
+hjá h j á 
+hjál@@ h j á l 
+hl@@ h l 
+hlí@@ h l í 
+hlíð h l í ð 
+hlo@@ h l o 
+hlotið h l o t i ð 
+hlu@@ h l u 
+hlut@@ h l u t 
+hn@@ h n 
+hnú@@ h n ú 
+ho@@ h o 
+hol@@ h o l 
+holti h o l t i 
+honum h o n u m 
+hor@@ h o r 
+horf@@ h o r f 
+hó@@ h ó 
+hól@@ h ó l 
+hóli h ó l i 
+hr@@ h r 
+hra@@ h r a 
+hraun@@ h r a u n 
+hre@@ h r e 
+hug@@ h u g 
+hund@@ h u n d 
+hú@@ h ú 
+hún h ú n 
+hús@@ h ú s 
+húsi h ú s i 
+hv@@ h v 
+hvað h v a ð 
+hvam@@ h v a m 
+hver@@ h v e r 
+hví@@ h v í 
+hæ@@ h æ 
+hækk@@ h æ k k 
+höf@@ h ö f 
+i i 
+i@@ i 
+ið i ð 
+ið@@ i ð 
+ig i g 
+i.is i . i s 
+ik@@ i k 
+il i l 
+il@@ i l 
+ileg@@ i l e g 
+ilega i l e g a 
+in i n 
+in@@ i n 
+ina i n a 
+ind@@ i n d 
+ing i n g 
+ing@@ i n g 
+inga i n g a 
+ingar i n g a r 
+ingar@@ i n g a r 
+ingu i n g u 
+ingum i n g u m 
+inn i n n 
+inn@@ i n n 
+innar i n n a r 
+inni i n n i 
+inn.is i n n . i s 
+ins i n s 
+inu i n u 
+inum i n u m 
+ip@@ i p 
+ir i r 
+ir@@ i r 
+ir.is i r . i s 
+irkj@@ i r k j 
+.is . i s 
+is i s 
+is@@ i s 
+ist i s t 
+ist@@ i s t 
+it@@ i t 
+ití@@ i t í 
+í í 
+í@@ í 
+Í Í 
+Í@@ Í 
+ía í a 
+ík@@ í k 
+ísl@@ í s l 
+Ísl@@ Í s l 
+Ísland@@ Í s l a n d 
+Íslands Í s l a n d s 
+Íslend@@ Í s l e n d 
+j j 
+j@@ j 
+ja j a 
+ja@@ j a 
+jafn@@ j a f n 
+jar@@ j a r 
+jarðar@@ j a r ð a r 
+já@@ j á 
+jó@@ j ó 
+jóð@@ j ó ð 
+jól@@ j ó l 
+jór@@ j ó r 
+ju j u 
+ju@@ j u 
+jum j u m 
+jur@@ j u r 
+jú@@ j ú 
+jö@@ j ö 
+jör@@ j ö r 
+k k 
+k@@ k 
+ka k a 
+ka@@ k a 
+kaði k a ð i 
+kar@@ k a r 
+kau@@ k a u 
+kaup@@ k a u p 
+ke@@ k e 
+kemur k e m u r 
+ken@@ k e n 
+kepp@@ k e p p 
+ki k i 
+kið k i ð 
+kirkj@@ k i r k j 
+kj@@ k j 
+kja k j a 
+kjar@@ k j a r 
+kk k k 
+kk@@ k k 
+kka k k a 
+klukk@@ k l u k k 
+klukkan k l u k k a n 
+ko@@ k o 
+kol@@ k o l 
+kom k o m 
+kom@@ k o m 
+koma k o m a 
+komið k o m i ð 
+kon@@ k o n 
+kor@@ k o r 
+koti k o t i 
+kr@@ k r 
+kra@@ k r a 
+kst k s t 
+ku k u 
+ku@@ k u 
+kur k u r 
+kv@@ k v 
+kvæ@@ k v æ 
+kvæm@@ k v æ m 
+kvöld k v ö l d 
+kyn@@ k y n 
+kynn@@ k y n n 
+kæ@@ k æ 
+kök@@ k ö k 
+l l 
+l@@ l 
+la l a 
+la@@ l a 
+lag@@ l a g 
+lan l a n 
+land l a n d 
+land@@ l a n d 
+landi l a n d i 
+lands@@ l a n d s 
+lar l a r 
+lau@@ l a u 
+laug@@ l a u g 
+laugar@@ l a u g a r 
+lá@@ l á 
+le@@ l e 
+leg l e g 
+leg@@ l e g 
+lega l e g a 
+legt l e g t 
+lei@@ l e i 
+leið l e i ð 
+leið@@ l e i ð 
+leik@@ l e i k 
+leng@@ l e n g 
+ley@@ l e y 
+lé@@ l é 
+li l i 
+li@@ l i 
+lið@@ l i ð 
+lit l i t 
+lit@@ l i t 
+lí@@ l í 
+líf@@ l í f 
+lík@@ l í k 
+ljó@@ l j ó 
+lo@@ l o 
+lof@@ l o f 
+log@@ l o g 
+lok@@ l o k 
+lu l u 
+lu@@ l u 
+lukk@@ l u k k 
+lum l u m 
+lý@@ l ý 
+lýs@@ l ý s 
+læ@@ l æ 
+lækk@@ l æ k k 
+lö@@ l ö 
+lög@@ l ö g 
+lögreg@@ l ö g r e g 
+m m 
+m@@ m 
+ma m a 
+ma@@ m a 
+maður m a ð u r 
+maðurinn m a ð u r i n n 
+mag@@ m a g 
+mann@@ m a n n 
+mar@@ m a r 
+má m á 
+má@@ m á 
+mál m á l 
+mál@@ m á l 
+málið m á l i ð 
+mánu@@ m á n u 
+me@@ m e 
+með m e ð 
+mei@@ m e i 
+menn m e n n 
+menn@@ m e n n 
+mér m é r 
+mi m i 
+mi@@ m i 
+mið@@ m i ð 
+mig m i g 
+mik@@ m i k 
+mikið m i k i ð 
+mikil m i k i l 
+mikil@@ m i k i l 
+mil@@ m i l 
+minn@@ m i n n 
+mí@@ m í 
+mjög m j ö g 
+mm m m 
+mm@@ m m 
+mo@@ m o 
+morg@@ m o r g 
+mó@@ m ó 
+mót@@ m ó t 
+mótmæ@@ m ó t m æ 
+mótmæl@@ m ó t m æ l 
+mp@@ m p 
+mt m t 
+mun@@ m u n 
+mund@@ m u n d 
+mur m u r 
+myn@@ m y n 
+mynd@@ m y n d 
+mæ@@ m æ 
+mör@@ m ö r 
+n n 
+n@@ n 
+na n a 
+na@@ n a 
+nað n a ð 
+nað@@ n a ð 
+naði n a ð i 
+nar n a r 
+nar@@ n a r 
+ná@@ n á 
+ne@@ n e 
+nesi n e s i 
+ni n i 
+ni@@ n i 
+nið@@ n i ð 
+niður n i ð u r 
+niður@@ n i ð u r 
+ning n i n g 
+ning@@ n i n g 
+nir n i r 
+ní@@ n í 
+nokk@@ n o k k 
+norð@@ n o r ð 
+nó@@ n ó 
+nu n u 
+nu@@ n u 
+num n u m 
+nú n ú 
+nú@@ n ú 
+ný n ý 
+ný@@ n ý 
+næ@@ n æ 
+o o 
+o@@ o 
+of@@ o f 
+og o g 
+ok@@ o k 
+okk@@ o k k 
+okkur o k k u r 
+ol@@ o l 
+olí@@ o l í 
+omp@@ o m p 
+on o n 
+on@@ o n 
+op@@ o p 
+or@@ o r 
+orð@@ o r ð 
+org@@ o r g 
+oss@@ o s s 
+ot@@ o t 
+ó ó 
+ó@@ ó 
+Ó Ó 
+Ó@@ Ó 
+óð@@ ó ð 
+ók@@ ó k 
+ól@@ ó l 
+ór@@ ó r 
+ótt@@ ó t t 
+p p 
+p@@ p 
+pa@@ p a 
+pó@@ p ó 
+pól@@ p ó l 
+pólití@@ p ó l i t í 
+póst@@ p ó s t 
+pp@@ p p 
+pæ@@ p æ 
+pön@@ p ö n 
+r r 
+r@@ r 
+ra r a 
+ra@@ r a 
+rann@@ r a n n 
+rá@@ r á 
+ráð@@ r á ð 
+ráðher@@ r á ð h e r 
+rás@@ r á s 
+re@@ r e 
+rek@@ r e k 
+reng@@ r e n g 
+rey@@ r e y 
+reykj@@ r e y k j 
+reykja@@ r e y k j a 
+reyn@@ r e y n 
+ré@@ r é 
+rétt@@ r é t t 
+ri r i 
+ri@@ r i 
+rif@@ r i f 
+rí@@ r í 
+rík@@ r í k 
+ríkis@@ r í k i s 
+ró@@ r ó 
+rra r r a 
+ru r u 
+ru@@ r u 
+rum r u m 
+rú@@ r ú 
+rý@@ r ý 
+ræ@@ r æ 
+ræð@@ r æ ð 
+s s 
+s@@ s 
+sa s a 
+sa@@ s a 
+sag@@ s a g 
+sagði s a g ð i 
+sak@@ s a k 
+sal@@ s a l 
+sam@@ s a m 
+saman s a m a n 
+samning@@ s a m n i n g 
+sá s á 
+sá@@ s á 
+se@@ s e 
+seg@@ s e g 
+segir s e g i r 
+segja s e g j a 
+sel@@ s e l 
+sem s e m 
+send@@ s e n d 
+set@@ s e t 
+sex s e x 
+sé s é 
+sé@@ s é 
+sér s é r 
+si s i 
+si@@ s i 
+sig s i g 
+sig@@ s i g 
+sigur@@ s i g u r 
+sins s i n s 
+s.is s . i s 
+sitt s i t t 
+sí@@ s í 
+sj@@ s j 
+sjá s j á 
+sjálf@@ s j á l f 
+sjó@@ s j ó 
+sjú@@ s j ú 
+sk s k 
+sk@@ s k 
+ska s k a 
+ska@@ s k a 
+ská@@ s k á 
+skemm@@ s k e m m 
+skil@@ s k i l 
+skip@@ s k i p 
+skj@@ s k j 
+sko@@ s k o 
+skó@@ s k ó 
+skól@@ s k ó l 
+skrif@@ s k r i f 
+sku s k u 
+skuld@@ s k u l d 
+skum s k u m 
+skur s k u r 
+skur@@ s k u r 
+sl@@ s l 
+sla@@ s l a 
+slu s l u 
+slu@@ s l u 
+sly@@ s l y 
+sm@@ s m 
+smá@@ s m á 
+sn@@ s n 
+sók@@ s ó k 
+sókn s ó k n 
+sól@@ s ó l 
+sp@@ s p 
+spreng@@ s p r e n g 
+spur@@ s p u r 
+ss s s 
+ss@@ s s 
+sstöðum s s t ö ð u m 
+st s t 
+st@@ s t 
+sta s t a 
+sta@@ s t a 
+stað s t a ð 
+stað@@ s t a ð 
+stan@@ s t a n 
+star@@ s t a r 
+starf@@ s t a r f 
+stein@@ s t e i n 
+sti s t i 
+stí@@ s t í 
+stíg s t í g 
+stjó@@ s t j ó 
+stjór@@ s t j ó r 
+stjórn@@ s t j ó r n 
+stjórnar@@ s t j ó r n a r 
+stof@@ s t o f 
+stofn@@ s t o f n 
+stó@@ s t ó 
+stór@@ s t ó r 
+str@@ s t r 
+stræ@@ s t r æ 
+stu s t u 
+stur s t u r 
+stur@@ s t u r 
+stú@@ s t ú 
+stúl@@ s t ú l 
+stæ@@ s t æ 
+stöð@@ s t ö ð 
+stöðu s t ö ð u 
+stöðum s t ö ð u m 
+suð@@ s u ð 
+suður@@ s u ð u r 
+sum s u m 
+sum@@ s u m 
+sun@@ s u n 
+sunnu@@ s u n n u 
+sv@@ s v 
+svar@@ s v a r 
+svei@@ s v e i 
+svo s v o 
+svo@@ s v o 
+sý@@ s ý 
+sýn@@ s ý n 
+sæ@@ s æ 
+sög@@ s ö g 
+söl@@ s ö l 
+t t 
+t@@ t 
+ta t a 
+ta@@ t a 
+taka t a k a 
+tal@@ t a l 
+tar t a r 
+tar@@ t a r 
+te@@ t e 
+tek@@ t e k 
+ti t i 
+ti@@ t i 
+tið t i ð 
+til t i l 
+til@@ t i l 
+tin t i n 
+tinn t i n n 
+tir t i r 
+tir@@ t i r 
+tist t i s t 
+tí@@ t í 
+tíu t í u 
+tj@@ t j 
+tjá@@ t j á 
+to@@ t o 
+tó@@ t ó 
+tómt t ó m t 
+tr@@ t r 
+trú@@ t r ú 
+tröpp@@ t r ö p p 
+tt t t 
+tt@@ t t 
+tta t t a 
+tti t t i 
+ttir t t i r 
+ttu t t u 
+ttur t t u r 
+tu t u 
+tu@@ t u 
+tum t u m 
+tung@@ t u n g 
+tur t u r 
+túni t ú n i 
+tv@@ t v 
+tvei@@ t v e i 
+tveir t v e i r 
+tæ@@ t æ 
+töl@@ t ö l 
+u u 
+u@@ u 
+udag@@ u d a g 
+uð u ð 
+uð@@ u ð 
+uðu u ð u 
+uðum u ð u m 
+ug@@ u g 
+ugg@@ u g g 
+ul@@ u l 
+uld@@ u l d 
+um u m 
+um@@ u m 
+un u n 
+un@@ u n 
+una u n a 
+unar u n a r 
+unar@@ u n a r 
+und u n d 
+und@@ u n d 
+undi u n d i 
+undir u n d i r 
+ung@@ u n g 
+un.is u n . i s 
+unk@@ u n k 
+unn@@ u n n 
+unnar u n n a r 
+unni u n n i 
+unum u n u m 
+up@@ u p 
+upp u p p 
+upp@@ u p p 
+ur u r 
+ur@@ u r 
+urinn u r i n n 
+ur.is u r . i s 
+urnar u r n a r 
+ust u s t 
+ut u t 
+ut@@ u t 
+ú ú 
+ú@@ ú 
+Ú Ú 
+Ú@@ Ú 
+úni ú n i 
+úr ú r 
+úr@@ ú r 
+úrsl@@ ú r s l 
+ús@@ ú s 
+út ú t 
+út@@ ú t 
+v v 
+v@@ v 
+val@@ v a l 
+van@@ v a n 
+var v a r 
+var@@ v a r 
+varð v a r ð 
+varð@@ v a r ð 
+varp@@ v a r p 
+vat@@ v a t 
+vatn@@ v a t n 
+vax@@ v a x 
+ve@@ v e 
+veð@@ v e ð 
+vef@@ v e f 
+veg@@ v e g 
+vegi v e g i 
+vegna v e g n a 
+vei@@ v e i 
+vel v e l 
+vel@@ v e l 
+ver@@ v e r 
+vera v e r a 
+verð@@ v e r ð 
+verða v e r ð a 
+verði v e r ð i 
+verður v e r ð u r 
+verið v e r i ð 
+verk@@ v e r k 
+vi@@ v i 
+við v i ð 
+við@@ v i ð 
+vik@@ v i k 
+vik.is v i k . i s 
+vikudag@@ v i k u d a g 
+vil@@ v i l 
+vilja v i l j a 
+vill v i l l 
+vin@@ v i n 
+vinn@@ v i n n 
+vinnu@@ v i n n u 
+vir@@ v i r 
+vis@@ v i s 
+viss@@ v i s s 
+vit@@ v i t 
+ví v í 
+ví@@ v í 
+víða v í ð a 
+vís@@ v í s 
+vo@@ v o 
+von@@ v o n 
+vor@@ v o r 
+voru v o r u 
+væ@@ v æ 
+væn@@ v æ n 
+væri v æ r i 
+völ@@ v ö l 
+völlum v ö l l u m 
+vör@@ v ö r 
+w w 
+w@@ w 
+x x 
+x@@ x 
+y y 
+y@@ y 
+yf@@ y f 
+yfir y f i r 
+yfir@@ y f i r 
+ygg@@ y g g 
+ykk@@ y k k 
+yl@@ y l 
+yn@@ y n 
+yr@@ y r 
+ý ý 
+ý@@ ý 
+Ý Ý 
+Ý@@ Ý 
+ýr@@ ý r 
+z z 
+z@@ z 
+þ@@ þ 
+Þ Þ 
+Þ@@ Þ 
+það þ a ð 
+Það Þ a ð 
+þar þ a r 
+Þar Þ a r 
+Þau Þ a u 
+þá þ á 
+Þá Þ á 
+þegar þ e g a r 
+þei@@ þ e i 
+Þei@@ Þ e i 
+Þeir Þ e i r 
+þeirra þ e i r r a 
+þess@@ þ e s s 
+þessu þ e s s u 
+þetta þ e t t a 
+Þetta Þ e t t a 
+þing@@ þ i n g 
+þjó@@ þ j ó 
+þó þ ó 
+Þór@@ Þ ó r 
+þr@@ þ r 
+Þú Þ ú 
+þús@@ þ ú s 
+þúsund þ ú s u n d 
+því þ v í 
+æ æ 
+æ@@ æ 
+Æ Æ 
+Æ@@ Æ 
+æð@@ æ ð 
+æm@@ æ m 
+ær æ r 
+æt@@ æ t 
+ö ö 
+ö@@ ö 
+Ö Ö 
+Ö@@ Ö 
+öð ö ð 
+öð@@ ö ð 
+öf@@ ö f 
+ög@@ ö g 
+ök ö k 
+ök@@ ö k 
+ökk@@ ö k k 
+öl@@ ö l 
+Öl@@ Ö l 
+öld ö l d 
+öm@@ ö m 
+ön@@ ö n 
+öng@@ ö n g 
+öpp@@ ö p p 
+ör@@ ö r 
+ötu ö t u 
+öþúsund ö þ ú s u n d 
