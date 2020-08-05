@@ -2,7 +2,7 @@
 
 This is a subword-based recipe for Icelandic ASR, modified from the gale-arabic subword implementation recipe for Arabic, which uses BPE. You can find the original subword gale-arabic implementation under egs/gale-arabic/s5c.
 
-Pre-processed training data for Icelandic is provided for three different subword segmentation methods, for use with these scripts. 
+Pre-processed training data (transcripts only) for Icelandic is provided for three different subword segmentation methods, for use with these scripts. 
 
 We use the Málrómur speech data for training the models. Only voice examples marked as 'correct' have been selected for training. Please find instructions on preparing the speech data below.
 
@@ -22,9 +22,9 @@ Run `setup.sh` from your `s5` directory to create symlinks to the folders `steps
 
 Now you should be all set up for experimenting with Kaldi, below are descriptions on both how to use existing models and how to train your own.
 
-## Getting data
+## Icelandic speech data
 
-On http://malfong.is/ you can find the Málrómur data used for training these models. Please download this data, and only use the utterances marked as 'correct' for training.
+On http://malfong.is/ you can find the Málrómur data used for training these models. Please download this data, and only use the utterances marked as 'correct'.
 
 The run.sh script calls the script `local/malromur_prep_data.sh`, which prepares data in the format of _Málrómur_, i.e. a directory containing a folder `wav` with all the `.wav` files and a text file called `wav_info.txt`, where each line describes one utterance in 11 columns :
 
@@ -32,24 +32,12 @@ The run.sh script calls the script `local/malromur_prep_data.sh`, which prepares
 	<wav-filename>	<recording-info>	<recording-info>	<gender>	<age>	<prompt (spoken text)>	<utterance length>	vorbis	16000	1	Vorbis
 
 
-If your info text file has another format, please have a look at http://kaldi-asr.org/doc/data_prep.html to see what kind of output you have to generate.
-
-
-Run `malromur_prep_data.sh` on the whole corpus and then divide the generated data randomly:
+The `malromur_prep_data.sh` scipt divides the generated data:
  
 	local/malromur_prep_data.sh <path-to-audio-files> wav_info.txt data/all
 	utils/subset_data_dir_tr_cv.sh --cv-utt-percent 10 data/{all,training_data,test_data}
 
 The prepared data is now in `data/all` and after the subset command the prepared files are divided such that 10% of the data in `data/all` is now in `data/test_data` and the rest in `data/training_data`.
-
-#### Feature extraction
-On each of your defined sub-data folders (training, test, ...) run the feature extraction commands:
-
-	steps/make_mfcc.sh --nj 40 --mfcc-config conf/mfcc.conf data/training_data exp/make_mfcc/training_data mfcc
-	steps/compute_cmvn_stats.sh data/training_data exp/make_mfcc/training_data mfcc
-### Icelandic speech data
-
-Go to http://malfong.is and find *The Malromur Corpus (ísl. Málrómur)*.
 
 
 ### Subword data
@@ -58,20 +46,12 @@ The folder subword_ice holds data preprocessed for training subword ASR models. 
 
 The three subword methods available are BPE (byte-pair encoding), Kvistur, and the Unigram subword segmentation algorithm available in the SentencePiece library.
 
-
-
-
-#### Data
-
-
-
-#### Training
 ## Running the scripts
 The run.sh script takes care of the training process. Three subword segmentation methods can be provided as command line argument with the run.sh script. 
 
-./run.sh bpe
-./run.sh kvistur
-./run.sh unigram
+`./run.sh bpe`
+`./run.sh kvistur`
+`./run.sh unigram`
 
 If no argument is given, the BPE algorithm is applied by default. The model training architecture is described in [1].
 
