@@ -45,7 +45,7 @@ The folder `subword_ice` holds data preprocessed for training subword ASR models
 
 The three subword methods available are BPE (byte-pair encoding), Kvistur, and the Unigram subword segmentation algorithm available in the SentencePiece library.
 
-Some preprocessing scripts used to prepare the subword data are also available in this folder, under `utils`.
+Some preprocessing scripts used to prepare the subword data are also available in this folder, under `subword_ice/utils`.
 
 ## Running the scripts
 The run.sh script takes care of the training process. Three subword segmentation methods can be provided as command line argument with the run.sh script. 
